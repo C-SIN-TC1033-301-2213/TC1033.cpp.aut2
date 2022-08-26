@@ -1,4 +1,4 @@
-# Ejercicios - Funciones
+# Ejercicios - Funciones (Autoestudio 2)
 
 Ubíquese en la **carpeta fuente del proyecto** deseado, use:
 
